@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mobile-coffee",
+    "slug": "mobile-coffee",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mobile-coffee"
+}
